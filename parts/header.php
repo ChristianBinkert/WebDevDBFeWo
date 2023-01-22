@@ -26,7 +26,7 @@
     </nav>
     <div class="jumbotron header-jumbotron text-center d-flex flex-column justify-content-center align-items-center">
       <h2 class="display-6">Herzlich Willkommen!</h2>
-      <h1 class="display-5">Aktivurlaub in Südbaden!</h1>
+      <h1 class="display-5">Ferienwohung Binkert</h1>
       <a class="btn btn-primary" href="#services" role="button">Weitere Informationen</a>
     </div>
   </div>
