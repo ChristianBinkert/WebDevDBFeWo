@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-sm">
         <div class="services-icon">
-          <i class="fas fa-shopping-basket"></i>
+          <i class="fas fa-tree"></i>
         </div>
 
         <h4 class="text-center">Wandern im Schwarzwald</h4>
@@ -13,7 +13,7 @@
       </div>
       <div class="col-sm">
         <div class="services-icon">
-          <i class="fas fa-laptop-code"></i>
+          <i class="fas fa-tree"></i>
         </div>
 
         <h4 class="text-center">Europapark</h4>
