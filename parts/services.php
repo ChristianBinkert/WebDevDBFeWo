@@ -13,7 +13,7 @@
       </div>
       <div class="col-sm">
         <div class="services-icon">
-          <i class="fas fa-tree"></i>
+          <i class="fab fa-servicestack"></i>
         </div>
 
         <h4 class="text-center">Europapark</h4>
@@ -21,7 +21,7 @@
       </div>
       <div class="col-sm">
         <div class="services-icon">
-          <i class="fas fa-lock"></i>
+          <i class="fas fa-city"></i>
         </div>
 
         <h4 class="text-center">Freiburg erkundnen</h4>
