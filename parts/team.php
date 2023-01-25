@@ -1,7 +1,7 @@
 <section class="team" id="team">
   <div class="container">
-    <h3 class="text-center">Unser Team</h3>
-    <p class="text-center text-muted font-italic">Das hier ist unser cooles Team!</p>
+    <h3 class="text-center">Ihre Gastgeber</h3>
+    <p class="text-center text-muted font-italic">Herzlich Willkommen bei Familie Binkert!</p>
   
     <div class="row">
       <div class="col-12 col-sm-4">
